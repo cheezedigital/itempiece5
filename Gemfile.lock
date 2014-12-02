@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.6)
+    bootstrap (0.0.1)
     daemons (1.1.9)
     eventmachine (1.0.3)
     excon (0.40.0)
@@ -42,6 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap
   font-awesome-sass
   heroku
   sinatra
